@@ -1,0 +1,17 @@
+{
+  "name": "Budget Tracker",
+  "short_name": "Budget",
+  "description": "Daily budget tracker with rolling limits",
+  "start_url": "/expensetracker/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/expensetracker/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
